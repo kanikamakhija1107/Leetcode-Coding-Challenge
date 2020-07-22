@@ -1,2 +1,2 @@
-# Leetcode-Coding-Challenge
+# Leetcode-Coding
 My solutions for some coding problems found on leetcode
